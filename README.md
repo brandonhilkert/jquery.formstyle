@@ -16,6 +16,5 @@ Use the following javascript to activate:
   $('input').formStyle();
   
   
-  
 Released under the [MIT license](http://www.opensource.org/licenses/mit-license.php).
 
